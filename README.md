@@ -1,4 +1,4 @@
-# SummPip - Multi-Document Summarizer
+#  Unsupervised Multi-Document Summary and Analysis
 
 ## Project Description
 
